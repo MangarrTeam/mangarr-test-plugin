@@ -1,0 +1,8 @@
+{
+  "domain": "mangarr-test-plugin",
+  "name": "Mangarr test plugin",
+  "codeowner": ["Makhuta"],
+  "documentation": "https://github.com/MangarrTeam/mangarr-test-plugin",
+  "issue_tracker": "https://github.com/MangarrTeam/mangarr-test-plugin/issues",
+  "version": "1.0.0"
+}
